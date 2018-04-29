@@ -1,0 +1,272 @@
+date,distance,endAddress,endTime,rideType,startAddress,startTime,time,totalPrice
+"October 13, 2017",7.84,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:49am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:31am,00:18:02, ₹99 
+"October 12, 2017",8.51,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:16pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:53pm,00:22:53, ₹69 
+"October 6, 2017",10.09,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:55am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:34am,00:20:34, ₹173.83 
+"October 17, 2017",13.16,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:02am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:33am,00:28:23, ₹197.04 
+"October 16, 2017",3.32,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",10:01pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:49pm,00:12:03, ₹59 
+"October 30, 2017",8.93,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:43am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:03am,00:39:41, ₹149 
+"October 31, 2017",6.02,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:50am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:12am,00:38:26, ₹99 
+"November 1, 2017",7.15,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:06am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:34am,00:32:15, ₹89 
+"November 2, 2017",8.30,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:44am,uberGO,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:27am,00:16:39, ₹164.84 
+"November 2, 2017",3.86,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:18pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",05:59pm,00:19:28, ₹59 
+"November 3, 2017",5.86,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:27am,POOL,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:04am,00:22:32, ₹89 
+"November 6, 2017",5.99,"7A, Sector 15A, Noida, Uttar Pradesh 201301, India",07:58am,POOL,"7A, Sector 15A, Noida, Uttar Pradesh 201301, India",07:31am,00:27:07, ₹59 
+"November 27, 2017",8.22,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:40am,00:14:12, ₹193.20 
+"October 5, 2017",5.44,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:34pm,uberGO,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:22pm,00:10:33, ₹105.30 
+"January 16, 2018",7.35,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:03pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",07:45pm,00:17:45, ₹59 
+"January 16, 2018",8.42,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:56am,GO,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:38am,00:17:42, ₹133.23 
+"January 15, 2018",3.96,"Unnamed Road, Sector 126, Noida, Uttar Pradesh 201301, India",08:22pm,POOL,"Unnamed Road, Sector 126, Noida, Uttar Pradesh 201301, India",08:08pm,00:13:53, ₹59 
+"January 15, 2018",8.37,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:27am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:07am,00:20:18, ₹176.43 
+"January 12, 2018",5.41,"7A, Sector 15A, Noida, Uttar Pradesh 201301, India",09:55am,GO,"7A, Sector 15A, Noida, Uttar Pradesh 201301, India",09:38am,00:16:55, ₹80.13 
+"January 11, 2018",6.71,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:31pm,GO,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:22pm,00:08:59, ₹119.86 
+"January 11, 2018",8.45,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:45am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:28am,00:16:54, ₹169.13 
+"January 8, 2018",6.82,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:56pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:44pm,00:11:40, ₹59 
+"January 5, 2018",4.20,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",07:00pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",06:24pm,00:36:07, ₹59 
+"January 18, 2018",8.03,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:43am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:16am,00:27:19, ₹89.15 
+"October 5, 2017",10.46,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:13am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,00:17:08, ₹150.90 
+"February 1, 2018",8.51,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:59pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:29pm,00:29:54, ₹59 
+"February 1, 2018",7.50,"7A, Sector 15A, Noida, Uttar Pradesh 201301, India",09:40am,GO,"7A, Sector 15A, Noida, Uttar Pradesh 201301, India",09:21am,00:19:49, ₹164.95 
+"January 30, 2018",8.47,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:46pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:11pm,00:35:53, ₹59 
+"January 30, 2018",4.02,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:35am,00:18:51, ₹89 
+"January 29, 2018",7.00,"Tower-C, Logix Techno Park, Sector 127, Noida, Uttar Pradesh 201301, India",09:03pm,POOL,"Tower-C, Logix Techno Park, Sector 127, Noida, Uttar Pradesh 201301, India",08:48pm,00:14:11, ₹59 
+"January 29, 2018",5.26,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:56am,POOL,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:27am,00:29:17, ₹149 
+"January 25, 2018",13.05,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",10:14am,GO,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:36am,00:37:42, ₹165.88 
+"January 24, 2018",6.82,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:17pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:06pm,00:11:17, ₹59 
+"January 22, 2018",8.21,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",08:41am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",08:25am,00:15:15, ₹157.92 
+"January 18, 2018",2.54,Pickup Location,05:42pm,POOL,Pickup Location,05:27pm,00:14:43, ₹39 
+"October 4, 2017",9.59,"601, Captain Vijyant Thapar Marg, Pocket A, Sector 18, Noida, Uttar Pradesh 201301, India",02:42pm,uberGO,"601, Captain Vijyant Thapar Marg, Pocket A, Sector 18, Noida, Uttar Pradesh 201301, India",02:21pm,00:21:11, ₹135.77 
+"January 17, 2018",3.41,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",10:06pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:56pm,00:10:29, ₹59 
+"January 17, 2018",8.24,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:58am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:46am,00:12:26, ₹109.56 
+"January 2, 2018",9.08,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:44pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",07:59pm,00:45:36, ₹89 
+"January 2, 2018",8.24,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:03am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:51am,00:12:15, ₹145.73 
+"December 29, 2017",7.02,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:06pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:55pm,00:11:56, ₹59 
+"December 29, 2017",8.38,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:55am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:43am,00:12:07, ₹148.20 
+"December 28, 2017",6.16,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",02:32pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",02:22pm,00:09:25, ₹39 
+"December 28, 2017",4.01,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",11:17am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",11:05am,00:12:14, ₹89 
+"December 27, 2017",6.53,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:56pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:47pm,00:08:56, ₹59 
+"December 27, 2017",8.45,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:02am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:50am,00:11:34, ₹155.30 
+"October 4, 2017",6.21,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",01:18pm,uberGO,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",01:07pm,00:10:37, ₹106.90 
+"December 26, 2017",4.12,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:24am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:12am,00:12:24, ₹79 
+"December 26, 2017",7.82,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:55am,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:44am,00:11:44, ₹59 
+"December 26, 2017",4.02,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:10am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",07:59am,00:10:58, ₹69 
+"December 22, 2017",8.13,"250C, Sector 15A, Noida, Uttar Pradesh 201301, India",10:38am,GO,"250C, Sector 15A, Noida, Uttar Pradesh 201301, India",10:23am,00:15:13, ₹156.11 
+"December 21, 2017",8.19,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:40am,00:13:58, ₹165.34 
+"December 20, 2017",7.44,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:27pm,GO,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:15pm,00:11:53, ₹117 
+"December 20, 2017",8.19,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:38am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:24am,00:13:35, ₹166.54 
+"December 18, 2017",4.84,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:14pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:49pm,00:24:42, ₹59 
+"December 18, 2017",10.33,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:42am,GO,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:24am,00:18:28, ₹166.73 
+"December 12, 2017",8.19,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:56am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:44am,00:12:21, ₹151.72 
+"October 4, 2017",10.25,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:43am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:25am,00:17:33, ₹141.63 
+"December 11, 2017",8.21,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:18am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:03am,00:14:20, ₹161.78 
+"December 8, 2017",8.24,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:03am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:48am,00:14:37, ₹146.27 
+"December 7, 2017",8.19,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:40am,00:14:33, ₹156.53 
+"December 5, 2017",8.00,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:53pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:20pm,00:32:30, ₹59 
+"December 5, 2017",8.22,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:18am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:06am,00:12:10, ₹158.14 
+"December 4, 2017",8.43,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:00am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:47am,00:13:08, ₹153.86 
+"November 30, 2017",3.46,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201313, India",10:23pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201313, India",10:12pm,00:10:33, ₹59 
+"November 30, 2017",8.42,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:15am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:02am,00:12:43, ₹148.58 
+"November 29, 2017",6.63,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:47pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:38pm,00:09:44, ₹109 
+"November 29, 2017",8.19,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",05:07pm,POOL,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",04:54pm,00:12:56, ₹79 
+"September 29, 2017",3.81,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201313, India",07:09pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201313, India",06:46pm,00:22:58, ₹105.98 
+"November 28, 2017",8.05,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:42am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:24am,00:17:26, ₹159.11 
+"November 27, 2017",6.74,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:18pm,uberGO,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:08pm,00:10:09, ₹117.09 
+"November 24, 2017",7.58,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:17am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:04am,00:13:14, ₹146.43 
+"November 23, 2017",10.22,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:59am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:41am,00:17:43, ₹144.85 
+"November 21, 2017",8.45,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:22am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:08am,00:14:05, ₹151.37 
+"November 20, 2017",7.02,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",12:10am,uberGO,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",12:02am,00:08:29, ₹120.37 
+"November 20, 2017",8.21,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:49am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:36am,00:12:49, ₹152.86 
+"November 18, 2017",7.02,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",12:43am,uberGO,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",12:34am,00:09:18, ₹120.12 
+"November 17, 2017",8.42,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",07:30am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",07:20am,00:10:02, ₹142.65 
+"November 16, 2017",7.85,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:40am,00:13:59, ₹166.13 
+"September 29, 2017",7.42,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:33am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:19am,00:14:13, ₹145.92 
+"November 15, 2017",3.56,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:04pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:55pm,00:09:38, ₹59 
+"November 15, 2017",8.18,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:34am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:22am,00:12:07, ₹157.23 
+"November 14, 2017",3.44,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:13pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:01pm,00:11:31, ₹59 
+"November 14, 2017",8.43,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:57am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:44am,00:13:09, ₹144.52 
+"November 13, 2017",7.53,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",10:20pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:59pm,00:20:21, ₹59 
+"November 13, 2017",8.38,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:06am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:50am,00:15:37, ₹142.44 
+"November 9, 2017",4.20,"Unnamed Road, Sector 126, Noida, Uttar Pradesh 201301, India",08:14pm,POOL,"Unnamed Road, Sector 126, Noida, Uttar Pradesh 201301, India",07:53pm,00:20:28, ₹79 
+"November 9, 2017",8.19,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",10:02am,uberGO,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:49am,00:13:21, ₹142.53 
+"November 8, 2017",6.98,"Unnamed Road, Bakhtawarpur, Sector 126, Noida, Uttar Pradesh 201301, India",08:48pm,POOL,"Unnamed Road, Bakhtawarpur, Sector 126, Noida, Uttar Pradesh 201301, India",08:36pm,00:11:56, ₹59 
+"November 8, 2017",8.43,"209, Sector 15A, Noida, Uttar Pradesh 201301, India",09:29am,uberGO,"209, Sector 15A, Noida, Uttar Pradesh 201301, India",09:17am,00:12:06, ₹156.55 
+"September 27, 2017",3.25,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:48pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:39pm,00:08:56, ₹59 
+"November 6, 2017",6.84,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",01:39pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",01:29pm,00:10:40, ₹59 
+"November 3, 2017",8.37,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",07:20pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:57pm,00:22:10, ₹109 
+"October 31, 2017",4.04,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:14pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",05:38pm,00:36:49, ₹59 
+"October 30, 2017",11.31,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",07:50pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",07:14pm,00:36:09, ₹59 
+"October 26, 2017",3.60,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:19pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:04pm,00:14:05, ₹59 
+"September 8, 2017",1.98,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:33pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:23pm,00:09:09, ₹0 
+"February 21, 2018",8.21,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:19am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:06am,00:13:07, ₹144.58 
+"February 20, 2018",7.00,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:51pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:38pm,00:12:42, ₹59 
+"February 20, 2018",8.18,"78, Sector 15A, Noida, Uttar Pradesh 201301, India",10:45am,GO,"78, Sector 15A, Noida, Uttar Pradesh 201301, India",10:32am,00:12:50, ₹149.83 
+"February 15, 2018",8.56,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:12pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:54pm,00:17:36, ₹59 
+"September 27, 2017",7.64,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",12:17am,uberGO,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",12:06am,00:11:21, ₹118.51 
+"February 15, 2018",8.18,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:36am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:20am,00:16:13, ₹170.39 
+"February 14, 2018",4.46,"Unnamed Road, Sector 126, Noida, Uttar Pradesh 201301, India",09:05pm,POOL,"Unnamed Road, Sector 126, Noida, Uttar Pradesh 201301, India",08:33pm,00:31:45, ₹59 
+"February 14, 2018",7.55,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",11:09am,GO,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",10:54am,00:14:28, ₹152.69 
+"March 16, 2018",6.98,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:00pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",07:40pm,00:20:36, ₹59 
+"March 16, 2018",8.03,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:25am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:13am,00:11:38, ₹163.09 
+"March 15, 2018",7.71,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:35pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:20pm,00:14:43, ₹59 
+"March 15, 2018",8.16,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:53am,GO,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:41am,00:12:30, ₹172.94 
+"March 14, 2018",5.70,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:15pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:38pm,00:36:19, ₹59 
+"March 14, 2018",8.03,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,GO,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:41am,00:13:22, ₹257.27 
+"March 13, 2018",6.52,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:42pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:18pm,00:24:15, ₹59 
+"October 12, 2017",5.83,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",12:26pm,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",12:07pm,00:18:39, ₹79 
+"September 25, 2017",9.98,"Unnamed Road, Sector 126, Noida, Uttar Pradesh 201301, India",09:21pm,POOL,"Unnamed Road, Sector 126, Noida, Uttar Pradesh 201301, India",08:43pm,00:37:29, ₹59 
+"March 13, 2018",8.26,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:21am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:06am,00:15:03, ₹151.93 
+"March 12, 2018",8.10,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:55pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:19pm,00:35:51, ₹59 
+"March 12, 2018",8.38,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:53am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:28am,00:25:22, ₹273.15 
+"March 9, 2018",5.38,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",06:55pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",06:30pm,00:25:09, ₹79 
+"March 9, 2018",8.19,"Club Road, Sector 15A, Noida, Uttar Pradesh 201301, India",09:29am,GO,"Club Road, Sector 15A, Noida, Uttar Pradesh 201301, India",09:15am,00:14:28, ₹170.87 
+"March 7, 2018",7.00,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",04:41pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",04:28pm,00:12:57, ₹59 
+"March 7, 2018",3.25,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:55am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:35am,00:20:14, ₹79 
+"March 6, 2018",6.95,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:32pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:20pm,00:11:50, ₹59 
+"March 6, 2018",8.19,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:46am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:32am,00:14:14, ₹147.43 
+"March 5, 2018",7.82,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:55pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:37pm,00:18:37, ₹59 
+"September 25, 2017",8.37,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:30am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:16am,00:14:06, ₹160.96 
+"March 5, 2018",8.26,"208, Sector 15A, Noida, Uttar Pradesh 201301, India",10:00am,GO,"208, Sector 15A, Noida, Uttar Pradesh 201301, India",09:45am,00:15:00, ₹177.47 
+"March 1, 2018",8.21,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:53am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:36am,00:16:48, ₹149.73 
+"February 28, 2018",3.38,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:08pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",05:51pm,00:17:20, ₹79 
+"February 28, 2018",8.21,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:53am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:37am,00:15:16, ₹120.86 
+"February 27, 2018",8.22,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:55am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:40am,00:14:52, ₹169.61 
+"February 26, 2018",3.41,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:04pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:45pm,00:18:39, ₹59 
+"February 26, 2018",9.78,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:11am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:41am,00:30:01, ₹99 
+"February 23, 2018",7.11,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:13pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:34pm,00:38:44, ₹59 
+"February 21, 2018",7.29,"jony paratha sec-126, Sector 127, Noida, Uttar Pradesh 201313, India",08:59pm,POOL,"jony paratha sec-126, Sector 127, Noida, Uttar Pradesh 201313, India",08:42pm,00:17:30, ₹59 
+"March 23, 2018",10.28,"Club Road, Sector 15A, Noida, Uttar Pradesh 201301, India",10:52am,GO,"Club Road, Sector 15A, Noida, Uttar Pradesh 201301, India",10:32am,00:19:29, ₹148.83 
+"September 22, 2017",1.51,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",12:09pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:54am,00:15:02, ₹39.98 
+"March 22, 2018",7.00,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",11:47pm,GO,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",11:36pm,00:10:51, ₹119.96 
+"March 21, 2018",5.94,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:37pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:27pm,00:10:01, ₹59 
+"March 21, 2018",8.03,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:40am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:18am,00:21:30, ₹172.30 
+"March 20, 2018",10.99,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",12:06am,GO,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:36pm,00:29:18, ₹183.33 
+"March 20, 2018",8.05,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",02:28pm,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",02:15pm,00:12:43, ₹59 
+"March 20, 2018",3.85,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",01:59pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",01:44pm,00:14:50, ₹59 
+"March 20, 2018",4.59,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",11:21am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:56am,00:25:13, ₹79 
+"March 19, 2018",7.03,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:18pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:54pm,00:23:39, ₹59 
+"April 27, 2018",6.49,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:34pm,GO,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:25pm,00:09:04, ₹104.22 
+"April 27, 2018",8.19,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:28am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:15am,00:12:45, ₹109.74 
+"September 22, 2017",10.61,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:03am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:36am,00:26:53, ₹287.76 
+"April 26, 2018",6.52,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",12:00am,GO,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:49pm,00:10:17, ₹88.14 
+"April 26, 2018",8.34,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",11:03am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:47am,00:16:18, ₹112.15 
+"April 25, 2018",8.18,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:32am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:17am,00:15:21, ₹160.69 
+"April 24, 2018",8.34,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:41am,GO,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:27am,00:14:21, ₹124.06 
+"April 23, 2018",6.97,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:34pm,GO,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:21pm,00:12:11, ₹76.08 
+"April 23, 2018",8.00,"7A, Sector 15A, Noida, Uttar Pradesh 201301, India",09:29am,GO,"7A, Sector 15A, Noida, Uttar Pradesh 201301, India",09:17am,00:11:29, ₹117.36 
+"April 19, 2018",2.54,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:57pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:25pm,00:32:20, ₹59 
+"April 19, 2018",8.18,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",10:27am,GO,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",10:14am,00:13:08, ₹94.58 
+"April 18, 2018",4.07,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:55pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:26pm,00:28:50, ₹89 
+"April 18, 2018",8.29,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:50am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:36am,00:14:19, ₹99.28 
+"September 20, 2017",3.59,"11C, Sector 15A, Noida, Uttar Pradesh 201301, India",08:15am,POOL,"11C, Sector 15A, Noida, Uttar Pradesh 201301, India",07:53am,00:22:02, ₹79.51 
+"April 17, 2018",3.91,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",09:09pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:55pm,00:13:49, ₹59 
+"April 16, 2018",6.87,"jony paratha sec-126, Sector 127, Noida, Uttar Pradesh 201313, India",08:49pm,POOL,"jony paratha sec-126, Sector 127, Noida, Uttar Pradesh 201313, India",08:38pm,00:10:48, ₹59 
+"April 16, 2018",8.22,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:03am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:46am,00:16:36, ₹110.73 
+"April 13, 2018",7.81,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:45pm,GO,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:27pm,00:18:53, ₹141.33 
+"April 12, 2018",7.15,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:44pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:30pm,00:13:51, ₹59 
+"April 12, 2018",10.27,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:42am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:27am,00:15:11, ₹160.75 
+"April 11, 2018",6.49,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:03pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:52pm,00:11:16, ₹59 
+"April 11, 2018",8.19,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:55am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:41am,00:14:12, ₹149.14 
+"April 10, 2018",6.50,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:49pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:37pm,00:11:40, ₹59 
+"April 10, 2018",8.24,"Club Road, Sector 15A, Noida, Uttar Pradesh 201301, India",10:25am,GO,"Club Road, Sector 15A, Noida, Uttar Pradesh 201301, India",10:12am,00:12:49, ₹145.25 
+"September 19, 2017",7.18,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:54pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:22pm,00:31:12, ₹59 
+"April 9, 2018",5.70,"jony paratha sec-126, Sector 127, Noida, Uttar Pradesh 201313, India",08:42pm,POOL,"jony paratha sec-126, Sector 127, Noida, Uttar Pradesh 201313, India",08:18pm,00:24:49, ₹59 
+"April 9, 2018",8.21,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",10:15am,GO,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",10:01am,00:13:26, ₹181.08 
+"April 5, 2018",3.35,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201301, India",06:02pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201301, India",05:41pm,00:20:48, ₹59 
+"April 5, 2018",8.42,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",08:56am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",08:40am,00:16:08, ₹97.11 
+"April 4, 2018",8.34,"210, Sector 15A, Noida, Uttar Pradesh 201301, India",10:13am,GO,"210, Sector 15A, Noida, Uttar Pradesh 201301, India",09:55am,00:18:14, ₹98.38 
+"April 3, 2018",3.38,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:52pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:40pm,00:11:52, ₹59 
+"April 3, 2018",8.21,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",10:16am,GO,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",10:01am,00:14:48, ₹113.48 
+"April 2, 2018",8.37,"Club Road, Sector 15A, Noida, Uttar Pradesh 201301, India",10:10am,GO,"Club Road, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,00:15:14, ₹118.86 
+"March 30, 2018",3.44,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:02pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:51pm,00:11:28, ₹59 
+"March 30, 2018",8.96,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:37am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:19am,00:17:57, ₹154.03 
+"September 19, 2017",5.39,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:34am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:48am,00:44:48, ₹89.51 
+"March 29, 2018",8.74,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:43pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:17pm,00:25:41, ₹59 
+"March 29, 2018",8.05,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:03am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:50am,00:13:01, ₹158.73 
+"March 29, 2018",7.18,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",01:23am,GO,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",01:15am,00:08:14, ₹118.50 
+"March 29, 2018",7.18,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",01:23am,GO,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",01:15am,00:08:14, ₹118.50 
+"March 28, 2018",7.81,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",10:11am,GO,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:55am,00:15:43, ₹163.84 
+"March 27, 2018",6.92,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:26pm,GO,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:06pm,00:19:02, ₹124.75 
+"March 27, 2018",8.22,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,GO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:41am,00:13:49, ₹164.52 
+"March 26, 2018",4.92,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:33pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:13pm,00:19:51, ₹59 
+"March 26, 2018",8.61,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:25am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:56am,00:29:20, ₹166.71 
+"March 23, 2018",6.84,"jony paratha sec-126, Sector 127, Noida, Uttar Pradesh 201313, India",08:34pm,POOL,"jony paratha sec-126, Sector 127, Noida, Uttar Pradesh 201313, India",08:21pm,00:12:29, ₹99 
+"September 18, 2017",2.83,"Jaypee Greens Wish Town Noida Integrated City, Sector 127, Noida, Uttar Pradesh 201303, India",04:03pm,POOL,"Jaypee Greens Wish Town Noida Integrated City, Sector 127, Noida, Uttar Pradesh 201303, India",03:46pm,00:15:53, ₹59 
+"March 22, 2018",8.18,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:16am,GO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:00am,00:15:34, ₹165.39 
+"September 18, 2017",8.22,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",07:39am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",07:25am,00:12:44, ₹79.51 
+"September 15, 2017",3.94,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",09:19pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:53pm,00:24:42, ₹59 
+"October 11, 2017",6.60,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:40pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:11pm,00:29:01, ₹59 
+"September 15, 2017",8.92,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:38am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:10am,00:27:17, ₹89.51 
+"September 14, 2017",4.01,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",06:39pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",06:12pm,00:26:30, ₹59 
+"September 13, 2017",6.26,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:13pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:59pm,00:13:10, ₹59 
+"September 13, 2017",2.74,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",07:33pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",07:20pm,00:12:28, ₹59 
+"September 13, 2017",5.44,"4C, Sector 15A, Noida, Uttar Pradesh 201301, India",10:15am,POOL,"4C, Sector 15A, Noida, Uttar Pradesh 201301, India",09:47am,00:27:39, ₹89.51 
+"September 12, 2017",2.80,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:19pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:03pm,00:16:14, ₹59 
+"September 12, 2017",10.62,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",10:31am,POOL,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:39am,00:51:56, ₹99 
+"September 11, 2017",6.94,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201313, India",10:17pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201313, India",10:07pm,00:10:02, ₹59 
+"September 8, 2017",1.98,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:33pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:23pm,00:09:09, ₹47.57 
+"September 8, 2017",7.74,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:38am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:14am,00:23:20, ₹89.51 
+"October 11, 2017",10.62,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:22am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:38am,00:43:34, ₹185.40 
+"September 7, 2017",4.02,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:14am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:59am,00:15:36, ₹99 
+"September 6, 2017",2.83,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:50pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",05:30pm,00:19:44, ₹31.50 
+"September 6, 2017",7.56,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",08:22am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",08:06am,00:15:24, ₹79.51 
+"September 5, 2017",6.50,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:43pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:32pm,00:11:09, ₹59 
+"September 5, 2017",8.98,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:47am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:52am,00:54:16, ₹99 
+"September 4, 2017",6.49,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:00pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:48pm,00:10:02, ₹59 
+"September 4, 2017",8.24,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,POOL,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:25am,00:28:51, ₹99 
+"September 2, 2017",4.07,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",05:23pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",05:03pm,00:20:00, ₹59 
+"September 2, 2017",8.26,"208, Sector 15A, Noida, Uttar Pradesh 201301, India",10:51am,uberGO,"208, Sector 15A, Noida, Uttar Pradesh 201301, India",10:38am,00:12:31, ₹131.83 
+"September 1, 2017",8.45,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:44am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:12am,00:32:03, ₹216.35 
+"October 10, 2017",6.73,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:38pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:27pm,00:10:17, ₹59 
+"August 31, 2017",7.02,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:50pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:35pm,00:13:10, ₹17 
+"August 31, 2017",10.24,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",10:16am,POOL,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:54am,00:22:31, ₹99 
+"August 29, 2017",3.93,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:00pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:47pm,00:12:56, ₹59 
+"August 29, 2017",8.61,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:26am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:38am,00:47:28, ₹89.51 
+"August 28, 2017",3.49,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:16pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",07:55pm,00:21:23, ₹59 
+"August 28, 2017",10.01,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:37am,POOL,"207, Sector 15A, Noida, Uttar Pradesh 201301, India",09:11am,00:25:38, ₹99 
+"August 25, 2017",7.31,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:51pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:27pm,00:23:31, ₹49 
+"August 25, 2017",10.24,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:44am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:18am,00:25:59, ₹89 
+"August 24, 2017",2.88,"B-40, Block B, Sector 1, Noida, Uttar Pradesh 110096, India",07:42pm,POOL,"B-40, Block B, Sector 1, Noida, Uttar Pradesh 110096, India",07:30pm,00:10:42, ₹49.51 
+"August 24, 2017",9.99,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:24am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:03am,00:20:55, ₹89 
+"October 10, 2017",8.14,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:38am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:00am,00:38:00, ₹99 
+"August 22, 2017",6.52,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:53pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:41pm,00:10:53, ₹49 
+"August 22, 2017",2.77,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:26pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:06pm,00:19:37, ₹49 
+"August 22, 2017",6.49,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",01:51am,uberGO,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",01:42am,00:08:45, ₹102.34 
+"August 21, 2017",8.18,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:56am,POOL,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:28am,00:28:08, ₹89 
+"August 18, 2017",8.27,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:58pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:31pm,00:27:42, ₹81.87 
+"August 18, 2017",5.23,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:36am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:57am,00:38:27, ₹89 
+"August 17, 2017",3.36,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",07:26pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",07:10pm,00:16:00, ₹49 
+"August 16, 2017",5.01,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",09:43pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",09:23pm,00:19:39, ₹49 
+"August 16, 2017",6.41,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:52am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:07am,00:44:43, ₹89 
+"August 14, 2017",6.97,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201313, India",07:53pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201313, India",07:37pm,00:16:49, ₹49 
+"October 9, 2017",6.55,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",03:59pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",03:45pm,00:13:42, ₹59 
+"August 14, 2017",14.95,"Lala Lajpat Rai Marg, Block Q, Lajpat Nagar IV, Lajpat Nagar, New Delhi, Delhi 110048, India",09:31am,uberGO,"Lala Lajpat Rai Marg, Block Q, Lajpat Nagar IV, Lajpat Nagar, New Delhi, Delhi 110048, India",09:12am,00:19:21, ₹314.61 
+"August 11, 2017",4.28,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:43pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:00pm,00:43:04, ₹49 
+"August 11, 2017",5.50,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:02am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:24am,00:37:47, ₹89 
+"August 10, 2017",6.98,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:56pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:29pm,00:26:45, ₹49 
+"August 10, 2017",4.47,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:47am,POOL,"204, Sector 15A, Noida, Uttar Pradesh 201301, India",09:07am,00:39:23, ₹89 
+"August 9, 2017",13.60,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",07:05pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",06:03pm,01:02:15, ₹160.79 
+"August 9, 2017",10.90,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:02am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:08am,00:54:28, ₹89 
+"August 8, 2017",4.73,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",09:05pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:43pm,00:21:09, ₹49 
+"August 3, 2017",3.46,"3a, Sector 126, Noida, Uttar Pradesh 201313, India",04:17pm,POOL,"3a, Sector 126, Noida, Uttar Pradesh 201313, India",04:03pm,00:13:59, ₹49 
+"August 3, 2017",10.09,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:51am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:13am,00:38:48, ₹165.28 
+"October 9, 2017",7.15,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:37am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:06am,00:30:56, ₹149 
+"August 2, 2017",5.62,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:27pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:05pm,00:21:59, ₹49 
+"August 2, 2017",5.73,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:08am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",08:27am,00:40:07, ₹90.99 
+"July 31, 2017",6.74,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",11:09pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:59pm,00:10:27, ₹49 
+"July 31, 2017",10.20,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:39am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:46am,00:52:52, ₹178.13 
+"July 27, 2017",3.23,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:50pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",10:40pm,00:10:06, ₹49 
+"July 27, 2017",6.04,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",10:21am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:56am,00:25:07, ₹86.49 
+"July 26, 2017",6.16,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:46am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:25am,00:21:25, ₹82.89 
+"July 25, 2017",5.52,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",07:10pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",06:50pm,00:20:17, ₹49 
+"July 25, 2017",4.09,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:34am,POOL,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",08:42am,00:51:42, ₹115.71 
+"July 24, 2017",2.98,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:39pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",08:24pm,00:15:42, ₹49 
+"October 6, 2017",6.47,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:29pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",05:49pm,00:40:08, ₹79 
+"July 24, 2017",8.18,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:24am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",08:44am,00:40:34, ₹273.09 
+"July 21, 2017",6.73,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",07:42pm,POOL,"2B, Noida-Greater Noida Expy, subarea, Sector 126, Noida, Uttar Pradesh 201303, India",06:44pm,00:57:59, ₹49 
+"July 21, 2017",9.00,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:41am,uberGO,"206, Sector 15A, Noida, Uttar Pradesh 201301, India",09:19am,00:21:48, ₹266.50 
+"October 26, 2017",4.15,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:52am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:34am,00:17:26, ₹79 
+"October 26, 2017",7.61,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",10:20am,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",10:10am,00:10:33, ₹59 
+"October 26, 2017",10.54,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:33am,uberGO,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:15am,00:18:12, ₹185.55 
+"October 25, 2017",6.86,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:25pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",08:13pm,00:12:00, ₹59 
+"October 24, 2017",6.94,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:43pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",09:30pm,00:12:56, ₹59 
+"October 24, 2017",7.39,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",10:21am,POOL,"205, Sector 15A, Noida, Uttar Pradesh 201301, India",09:46am,00:34:41, ₹99 
+"October 18, 2017",9.61,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",07:05pm,POOL,"Unnamed Road, Sector 127, Noida, Uttar Pradesh 201303, India",06:32pm,00:33:20, ₹59 
